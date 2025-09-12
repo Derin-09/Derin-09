@@ -6,7 +6,7 @@
 -  Full-stack web dev: `Next.js`, `TypeScript`, `Tailwind`, `Supabase`
 -  AI + Machine Learning
 -  Systems stuff like compilers and graph theory  
--  Spanish (yes, aggressively)
+-  Spanish (yes, aggressively).
 
 ### Tech Stack
 `TypeScript` • `Next.js` • `React` • `TailwindCSS`  
