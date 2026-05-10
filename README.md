@@ -10,10 +10,12 @@
 -  Playing acoustic guitar too, (bass guitar is the goal though)
 
 ### Tech Stack
-`TypeScript` • `Next.js` • `React` • `TailwindCSS`  
-`JavaScript` • `HTML5` •  `CSS3` • `Supabase`  • `Firebase` • `PostgreSQL` • 
-`C#` • `ASP.NET` • `Git` • `GitHub` • `Framer Motion` • `shadcn/ui` •
- `Figma` •`Postman` •`Cloudinary` • `pandas` • `matplotlib`
+`TypeScript` • `Next.js` • `React` • `JavaScript` • 
+`TailwindCSS` • `HTML5` •  `CSS3` • 
+`Supabase`  • `Firebase` • `PostgreSQL` • `C#` • `ASP.NET` •
+`Git` • `GitHub` • `BitBucket` • `Vercel` • `Render` •
+`Framer Motion` • `shadcn/ui` • `Figma`• 
+`Postman` •`Cloudinary` • `pandas` • `matplotlib`
 
 ### Pinned Projects (check top of my profile)
 - **KoloSquad** – Real-time savings platform with squad wallets, Paystack integration, and live dashboards powered by Supabase.
