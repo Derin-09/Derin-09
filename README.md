@@ -14,7 +14,7 @@
 `TailwindCSS` • `HTML5` •  `CSS3` • 
 `Supabase`  • `Firebase` • `PostgreSQL` • `C#` • `ASP.NET` •
 `Git` • `GitHub` • `BitBucket` • `Vercel` • `Render` •
-`Framer Motion` • `shadcn/ui` • `Figma`• 
+`Framer Motion` • `shadcn/ui` • `Figma`• `Canva`• `Adobe XD`• 
 `Postman` •`Cloudinary` • `pandas` • `matplotlib`
 
 ### Pinned Projects (check top of my profile)
