@@ -28,7 +28,7 @@
 - Pushing daily commits & building public streaks
 
 ### Connect With Me
-[LinkedIn](www.linkedin.com/in/aderinsola-sam-ashimi) • [Portfolio](https://aderinsola-portfolio.vercel.app/)  
+[LinkedIn](https://www.linkedin.com/in/aderinsola-sam-ashimi) • [Portfolio](https://aderinsola-portfolio.vercel.app/)  
 Email: `aderinsolasamashimi@gmail.com`
 
 ---
