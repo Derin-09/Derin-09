@@ -3,7 +3,7 @@
 > Dev, builder, chaos conjurer. Turning caffeine and code into things that (mostly) work.
 
 ### Currently Learning
--  Full-stack web dev: `Next.js`, `TypeScript`, `Tailwind`, `Supabase`, `Firebase`, `Express.js`, `Node.js`,`PostgreSQL`
+-  Full-stack web dev: `Next.js`, `TypeScript`, `Tailwind`, `Supabase`, `Firebase`, `C#`, `ASP.NET`,`PostgreSQL`
 -  AI + Machine Learning
 -  Systems stuff like compilers and graph theory  
 -  Spanish and Russian (yes, aggressively).
@@ -11,8 +11,9 @@
 
 ### Tech Stack
 `TypeScript` • `Next.js` • `React` • `TailwindCSS`  
-`Node.js` • `PostgreSQL` • `Prisma` • `Supabase` • `Express.js`
-`Python` • `NumPy` • `pandas` • `matplotlib` • `Firebase`
+`JavaScript` • `HTML5` •  `CSS3` • `Supabase`  • `Firebase` • `PostgreSQL` • 
+`C#` • `ASP.NET` • `Git` • `GitHub` • `Framer Motion` • `shadcn/ui` •
+ `Figma` •`Postman` •`Cloudinary` • `pandas` • `matplotlib`
 
 ### Pinned Projects (check top of my profile)
 - **KoloSquad** – Real-time savings platform with squad wallets, Paystack integration, and live dashboards powered by Supabase.
