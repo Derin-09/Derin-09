@@ -3,7 +3,7 @@
 > Dev, builder, chaos conjurer. Turning caffeine and code into things that (mostly) work.
 
 ### Currently Learning
--  Full-stack web dev: `Next.js`, `TypeScript`, `Tailwind`, `Supabase`, `Firebase`, `C#`, `ASP.NET`,`PostgreSQL`
+-  Full-stack web dev: `Next.js`, `TypeScript`, `Tailwind`, `Supabase`, `Firebase`, `NestJS`, `Node.js`,`PostgreSQL`
 -  AI + Machine Learning
 -  Systems stuff like compilers and graph theory  
 -  Spanish and Russian (yes, aggressively).
@@ -12,7 +12,7 @@
 ### Tech Stack
 `TypeScript` • `Next.js` • `React` • `JavaScript` • 
 `TailwindCSS` • `HTML5` •  `CSS3` • 
-`Supabase`  • `Firebase` • `PostgreSQL` • `C#` • `ASP.NET` •
+`Supabase`  • `Firebase` • `PostgreSQL` • `NestJS` • `Node.js` •
 `Git` • `GitHub` • `BitBucket` • `Vercel` • `Render` •
 `Framer Motion` • `shadcn/ui` • `Figma`• `Canva`• `Adobe XD`• 
 `Postman` •`Cloudinary` • `pandas` • `matplotlib`
